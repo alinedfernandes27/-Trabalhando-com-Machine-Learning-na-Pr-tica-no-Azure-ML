@@ -1,4 +1,4 @@
-# -Trabalhando-com-Machine-Learning-na-Pr-tica-no-Azure-ML
+# Trabalhando-com-Machine-Learning-na-Pr-tica-no-Azure-ML
 Neste desafio de projeto do Bootcamp Microsoft Azure AI Fundamentals iremos criar uma conta no Azure e explorar as aptidões do Machine Learning, sendo assim a primeira automação prática.
 
 Criar um espaço de trabalho do Aprendizado de Máquina do Azure
